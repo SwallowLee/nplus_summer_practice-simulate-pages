@@ -1,0 +1,89 @@
+.LatestOrder{
+	background-color: #FFFFFF;
+	position: absolute;
+	top: 820px;
+	right: 42px;
+	font-weight: 700;
+	font-size: 24px;
+	width: 45vw;
+	height: 456px;
+	margin-bottom: 42px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px 5px #EBEBEB;
+}
+
+.LatestTitle{
+	margin-top: 30px;
+	margin-left: 40px;
+	margin-bottom: 20.5px;
+	font-size: 24px;
+}
+
+.LatestBlock{
+	height: 100px;
+	margin-left: 40px;
+	margin-bottom: 9.5px;
+	margin-top: 18px;
+	font-size: 16px;
+}
+
+.productName{
+	position: relative;
+	top: -100px;
+	font-size: 20px;
+	margin-left: 121px;
+}
+.fa-clock{
+	margin-right: 7px;
+	font-size: 13px;
+}
+
+.buyclock{
+	color: #9B9B9B;
+	margin-left: 121px;
+	position: relative;
+	top: -100px;
+}
+
+.date{
+	padding-right: 14px;
+}
+
+.customer{
+	color: #9B9B9B;
+	margin-left: 121px;
+	position: relative;
+	top: -100px;	
+}
+
+.fa-male{
+	padding-left: 5px;
+	padding-right: 8px;
+	font-size: 18px;
+}
+
+.price{
+	margin-right: 42px;
+	position: relative;
+	top: -150px;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+}
+
+.ordercost{
+	font-size: 20px;
+	color: #000000;
+}
+
+.total{
+	font-size: 16px;
+}
+
+.orderhr{
+	position: relative;
+	top: -138px;
+	size: 1px;
+	right: 20px;
+	width: 475px;
+}

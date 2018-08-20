@@ -1,0 +1,19 @@
+.TotalChart{
+	position: absolute;
+	top: 304px;
+	left: 42px;
+	background-color: #FFFFFF;
+	margin-top: 18px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px 5px #EBEBEB;
+
+}
+
+.chartTitle{
+	font-size: 24px;
+	font-weight: 700;
+	margin-top: 30px;
+	margin-left: 40px;
+	margin-bottom: 16px;
+	color: #000000;
+}

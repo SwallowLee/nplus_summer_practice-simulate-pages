@@ -1,0 +1,25 @@
+{
+  "name": "nplus_summer_practice",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "moment": "^2.22.2",
+    "node-sass": "^4.9.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "recharts": "^1.1.0"
+  },
+  "scripts": {
+    "build-css": "node-sass -w src/scss/SelectBtn.scss src/css/SelectBtn.css",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0"
+  }
+}

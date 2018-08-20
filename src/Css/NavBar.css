@@ -1,0 +1,30 @@
+.navstyle {
+  background-color: #000000; }
+
+.head {
+  font-size: 24px;
+  color: #FFFFFF;
+  padding: 0px;
+  margin: 21px 60px 21px 42px;
+  /* top right bottom left */ }
+
+.nonactive {
+  color: #9B9B9B; }
+
+.active {
+  color: #FFFFFF; }
+
+.navItem {
+  font-size: 16px;
+  padding: 0px;
+  margin: 26px 20px 25px;
+  /* top left-right bottom */ }
+
+.admin {
+  position: absolute;
+  color: #FFFFFF;
+  font-size: 16px;
+  padding: 0px;
+  margin-top: 26px;
+  margin-bottom: 25px;
+  right: 42px; }
